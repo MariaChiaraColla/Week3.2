@@ -1,0 +1,15 @@
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.deps.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.runtimeconfig.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.runtimeconfig.dev.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.csprojAssemblyReference.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.AssemblyInfoInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.AssemblyInfo.cs
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.csproj.CoreCompileInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.csproj.CopyComplete
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.EF\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.EF.genruntimeconfig.cache

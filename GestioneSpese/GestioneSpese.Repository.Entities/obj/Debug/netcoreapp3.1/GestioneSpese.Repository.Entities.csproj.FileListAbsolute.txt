@@ -1,0 +1,9 @@
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.deps.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\bin\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.csprojAssemblyReference.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.AssemblyInfoInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.AssemblyInfo.cs
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.csproj.CoreCompileInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week3\GestioneSpese\GestioneSpese.Repository.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Repository.Entities.pdb
