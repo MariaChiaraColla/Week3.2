@@ -127,22 +127,23 @@ namespace GestioneSpese.Repository.EF.Repository
             }
         }
 
-        public List<Spesa> SpesePerCategoria()
+        public void SpesePerCategoria()
         {
             using (var ctx = new GestioneSpeseContext())
             {
-                List<Spesa> spese = null;
+                var spese = ctx.Spese.GroupBy(s => s.CategoriaId)
+                                     .Select(SpeseCategoria =>
+                                             new
+                                             {
+                                                 Categoria = SpeseCategoria.Key,
+                                                 TotaleImporti = SpeseCategoria.Sum(i => i.Importo)
+                                             })
+                                     .ToList();
+                foreach (var s in spese)
+                {
+                    Console.WriteLine(s.Categoria + ") " + s.TotaleImporti + " euro");
+                }
 
-                //var spese = ctx.Spese.GroupBy(c => c.Categoria)
-                //                     .Select(SpeseCategoria =>
-                //                             new
-                //                             {
-                //                                 Categoria = SpeseCategoria.Key,
-                //                                 TotaleImporti = SpeseCategoria.Sum(i => i.Importo)
-                //                             })
-                //                     .ToList();
-
-                return spese;
             }
         }
     }

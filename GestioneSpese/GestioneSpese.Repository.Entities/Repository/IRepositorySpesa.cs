@@ -11,6 +11,6 @@ namespace GestioneSpese.Repository.Entities.Repository
         bool ApprovaSpesa(int id);
         List<Spesa> SpeseApprovate();
         List<Spesa> SpeseUtente(string utente);
-        List<Spesa> SpesePerCategoria();
+        void SpesePerCategoria();
     }
 }
